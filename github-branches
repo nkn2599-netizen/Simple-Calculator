@@ -1,0 +1,9 @@
+```bash id="k2x9pf"
+git branch -a -v
+
+* main        8f3b2d1 Merge bug-fix-typo branch
+  bug-fix-typo 7c9a1e4 Fix typo in README
+  remotes/origin/main        8f3b2d1 Merge bug-fix-typo branch
+  remotes/origin/HEAD -> origin/main
+  remotes/origin/bug-fix-typo 7c9a1e4 Fix typo in README
+```
