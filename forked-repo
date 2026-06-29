@@ -1,19 +1,10 @@
 ```bash
-curl https://api.github.com/repos/<your-github-username>/<your-repository-name>
+curl https://api.github.com/repos/nkn2599-netizen/Simple-Calculator
 ```
 
 ```json
 {
-  ...
-  "fork": true,
-  "parent": {
-    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
-    ...
-  },
-  "source": {
-    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
-    ...
-  }
-  ...
+  // Paste the complete JSON output returned by the curl command here.
+  // Do not edit it.
 }
 ```
