@@ -1,0 +1,22 @@
+```bash
+curl https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/<pull-request-number>
+```
+
+```json
+{
+  ...
+  "head": {
+    "label": "nkn2599-netizen:bug-fix-typo",
+    "ref": "bug-fix-typo",
+    "repo": {
+      "full_name": "nkn2599-netizen/mcino-Introduction-to-Git-and-GitHub",
+      "fork": true
+    }
+  },
+  "base": {
+    "repo": {
+      "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+    }
+  }
+}
+```
